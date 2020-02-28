@@ -1,1 +1,1 @@
-https://github.com/carlsonh/CS455_Ballistics_DEV/Ballistic_DEV/
+https://carlsonh.github.io/CS455_Ballistics_DEV/Ballistic_DEV/
